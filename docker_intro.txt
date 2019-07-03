@@ -1,0 +1,7 @@
+For the Docker CE engine, the open repositories Docker Engine and Docker Client apply.
+
+Releases of Docker Engine and Docker Client for general availability are versioned using dotted triples. The components of this triple are YY.mm.<patch> where the YY.mm component is referred to as the year-month release. The version numbering format is chosen to illustrate cadence and does not guarantee SemVer, but the desired date for general availability. The version number may have additional information, such as beta and release candidate qualifications. Such releases are considered “pre-releases”.
+
+The cadence of the year-month releases is every 6 months starting with the 18.09 release. The patch releases for a year-month release take place as needed to address bug fixes during its support cycle.
+
+Docker CE binaries for a release are available on download.docker.com as packages for the supported operating systems. Docker EE binaries are available on the Docker Hub for the supported operating systems. The release channels are available for each of the year-month releases and allow users to “pin” on a year-month release of choice. The release channel also receives patch releases when they 
