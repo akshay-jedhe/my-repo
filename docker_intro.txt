@@ -1,4 +1,4 @@
-For the Docker CE engine, the open repositories Docker Engine and Docker Client apply.
+ksksksksksFor the Docker CE engine, the open repositories Docker Engine and Docker Client apply.
 
 Releases of Docker Engine and Docker Client for general availability are versioned using dotted triples. The components of this triple are YY.mm.<patch> where the YY.mm component is referred to as the year-month release. The version numbering format is chosen to illustrate cadence and does not guarantee SemVer, but the desired date for general availability. The version number may have additional information, such as beta and release candidate qualifications. Such releases are considered “pre-releases”.
 
