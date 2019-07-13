@@ -1,0 +1,20 @@
+From 0c3bd93f235911a54fd00384a62012e06c61e8be Mon Sep 17 00:00:00 2001
+From: akshay-jedhe <jedheakshay1995@gmail.com>
+Date: Wed, 10 Jul 2019 05:58:21 +0000
+Subject: [PATCH] Tom with about_us and it is shared patch
+
+---
+ Tom_project/tom_about_us.py | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 Tom_project/tom_about_us.py
+
+diff --git a/Tom_project/tom_about_us.py b/Tom_project/tom_about_us.py
+new file mode 100644
+index 0000000..464dddd
+--- /dev/null
++++ b/Tom_project/tom_about_us.py
+@@ -0,0 +1 @@
++print "This is tom project aboutus file! and This is also shared.!"
+-- 
+1.8.3.1
+
